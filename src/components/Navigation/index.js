@@ -1,4 +1,6 @@
 import React from 'react';
+import Portfolio from '../Portfolio';
+
 
 function Navigation () {
     return(
@@ -10,12 +12,12 @@ function Navigation () {
                     </a>
                 </li>
                 <li>
-                    <a href="#work-samples">
+                    <a href="#portfolio">
                         Portfolio
                     </a>
                 </li>
                 <li>
-                    <a href="#contact-me">
+                    <a href="#contact">
                         Contact
                     </a>
                 </li>

@@ -151,9 +151,9 @@ footer h2 {
 /* BIO SECTION END */
 
 
-/* CONTACT ME SECTION START */
+/* CONTACT SECTION START */
 
-.contact-me {
+.contact {
   display: flex;
   width:100%;
   margin: 0 auto;
@@ -161,7 +161,7 @@ footer h2 {
   padding: 40px 15px;
 }
 
-.contact-me h2 {
+.contact h2 {
   font-size: 45px;
   font-style: oblique;
   color: var(--primary-color);
@@ -169,7 +169,7 @@ footer h2 {
   padding: 0px 13px;
 }
 
-.contact-me ul {
+.contact ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -177,17 +177,17 @@ footer h2 {
   list-style: none;
 }
 
-.contact-me ul li {
+.contact ul li {
   font-size: 20px;
   color: navy;
   padding: 10px 30px;
 }
-/* CONTACT ME SECTION ENDS*/
+/* CONTACT SECTION ENDS*/
 
 
 
 /* WORK SAMPLES SECTION START */
-.work-samples {
+.portfolio {
   display: flex;
   width:100%;
   margin: 0 auto;
@@ -195,7 +195,7 @@ footer h2 {
   padding: 25px 15px;
 }
 
-.work-samples h2 {
+.portfolio h2 {
   font-size: 45px;
   font-style: oblique;
   color: var(--primary-color);
@@ -329,7 +329,7 @@ footer h2 {
     padding: 20px 0px 0px 0px;
 }
 
-  .work-samples {
+  .portfolio {
     display: flex;
     width: 100%;
     margin: 0 auto;
