@@ -90,25 +90,6 @@ footer h2 {
 /* FOOTER STYLES END */
 
 
-/* HERO STYLES START */
-.hero {
-    background-image: url("../images/hero-bg.jpg");
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    background-position: right;
-    height: 200px;
-  }
-  
-  .hero h2 {
-    font-style: italic;
-    font-size: 55px;
-    color: white;
-    margin: auto;
-  }
-/* HERO STYLES END */
-
-
 /* BIO SECTION START*/  
 .my-bio {
   display: flex;
@@ -196,10 +177,6 @@ footer h2 {
 }
 
 .portfolio h2 {
-  font-size: 45px;
-  font-style: oblique;
-  color: var(--primary-color);
-  border-right: 4mm ridge rgba(39, 240, 103, 0.8);
   padding: 0px 28px;
 }
 

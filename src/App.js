@@ -1,9 +1,10 @@
 import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import heroImage from './assets/images/hero-bg.jpg';
-import About from './components/About';
 import Header from './components/Header';
+import heroImage from './assets/images/hero-bg.jpg';
+import Portfolio from './components/Portfolio';
+import About from './components/About';
 import Footer from './components/Footer';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     <div style={{ backgroundImage: `url(${heroImage})`}}> 
       <Header></Header>
       <main>
+        <Portfolio></Portfolio>
         <About ></About>
       </main>
       <Footer></Footer>
