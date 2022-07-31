@@ -189,34 +189,6 @@ footer h2 {
   padding: 0px 5px;
 }
 
-
-.first-sample {
-  flex: 2;
-  padding: 5px;
-  border-style: outset;
-  border-width: 5px;
-  border-color: #4ccad8;
-  margin: 20px 40px; 
-}
-
-
-.first-sample h3 {
-  font-size: 20px;
-  color: navy;
-  padding: 0px 0px 20px 0px;
-  text-align: center;
-}
-
-.first-sample h4 {
-  text-align: center;
-}
-
-.first-sample img {
-  width: 100%;
-  min-width: 400px;
-  padding: 10px 15px;
-}
-
 .sample {
   flex: 0;
   padding: 5px;
