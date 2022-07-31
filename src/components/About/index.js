@@ -6,7 +6,7 @@ const About = () => {
         <section className='my-5 mx-5'>
             <h1 id='about'>About Me</h1>
             <img src={bioPicture} className='my-3' style={{width: "15%", height: "15%"}} alt="bio" />
-            <p>
+            <p className='rounded'>
                 I am excited and eager to embark upon a fork in my career path with the intention of combining my 
                 existing skills in data analysis with quantitative and qualitative research methods; my emerging skills in data science, data visualization, and 
                 full-stack web development; and my life-long commitment and dedication towards social service. I am currently a student at the 
