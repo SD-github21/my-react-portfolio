@@ -1,28 +1,37 @@
 import React from 'react';
-import Portfolio from '../Portfolio';
 
 
-function Navigation () {
+function Navigation ({ currentPage, handlePageChange }) {
+
     return(
         <nav>
             <ul className='flex-row'>
                 <li className='mx-2'>
-                    <a href='#about'>
+                    <a href='/'                    
+                    >
                         About me
                     </a>
                 </li>
                 <li>
-                    <a href="#portfolio">
+                    <a href="#portfolio"
+                    onClick={() => handlePageChange('Portfolio')}
+                    >
                         Portfolio
                     </a>
                 </li>
                 <li>
-                    <a href="#contact">
+                    <a href="#contact"
+                     onClick={() => handlePageChange('Contact')}
+                    >
                         Contact
                     </a>
                 </li>
                 <li>
-                    <a href="#resume">Resume</a>
+                    <a href="#resume"
+                     onClick={() => handlePageChange('Resume')}
+                    >
+                        Resume
+                    </a>
                 </li>
 
             </ul>
