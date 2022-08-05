@@ -142,13 +142,6 @@ footer h2 {
   padding: 40px 15px;
 }
 
-.contact h2 {
-  font-size: 45px;
-  font-style: oblique;
-  color: var(--primary-color);
-  border-right: 4mm ridge rgba(39, 240, 103, 0.8);
-  padding: 0px 13px;
-}
 
 .contact ul {
   display: flex;
@@ -234,13 +227,7 @@ footer h2 {
     position: relative;
 }
 
-  .about-me h2 {
-    font-size: 45px;
-    font-style: oblique;
-    color: var(--primary-color);
-    padding: 0px 18px;
-    border-right: 4mm ridge rgba(39, 240, 103, 0.8);
-  }
+ 
 }
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */

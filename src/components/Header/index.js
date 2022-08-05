@@ -17,10 +17,12 @@ function Header() {
         }
         if (currentPage === 'Resume') {
             return <Resume />;
-        } return <About />;
+        } 
+        return <About />;
     } 
 
     const handlePageChange = (page) => setCurrentPage(page);
+    
     return (
         <>
         <header>

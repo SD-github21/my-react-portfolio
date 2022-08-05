@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-function Navigation ({ currentPage, handlePageChange }) {
+function Navigation ({ handlePageChange }) {
 
     return(
         <nav>
