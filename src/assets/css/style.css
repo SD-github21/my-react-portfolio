@@ -134,19 +134,20 @@ footer h2 {
 
 /* CONTACT SECTION START */
 
-.contact {
+ .contact {
   display: flex;
   width:100%;
   margin: 0 auto;
-  justify-content: space-between;
-  padding: 40px 15px;
+  justify-content: left;
+  padding: 25px 15px;
+
 }
 
-
-.contact ul {
+/*
+.contact-form {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   list-style: none;
 }
@@ -155,7 +156,7 @@ footer h2 {
   font-size: 20px;
   color: navy;
   padding: 10px 30px;
-}
+} */
 /* CONTACT SECTION ENDS*/
 
 
