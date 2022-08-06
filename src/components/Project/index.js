@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import meetFriendsPicture from '../../assets/images/photo-1533174072545-7a4b6ad7a6c3.avif';
 import bellyButtonPicture from '../../assets/images/bellybutton.png';
-import nasaPicture from '../../assets/images/nasa.jpg';
+import weatherPicture from '../../assets/images/screencapture-weather-dashboard.png';
 import runBuddyPicture from '../../assets/images/run-buddy.jpg';
 
 function Project() {
@@ -36,11 +36,11 @@ function Project() {
             github: 'https://github.com/SD-github21/Bellybutton-Biodiversity' 
         },
         {
-            title: 'UFO Sightings',
-            application: 'https://sd-github21.github.io/UFOs/',
-            image: nasaPicture,
-            alt: 'Space picture of top portion of Earth',
-            github: 'https://github.com/SD-github21/UFOs' 
+            title: 'Weather Dashboard',
+            application: 'https://sd-github21.github.io/weather-dashboard/',
+            image: weatherPicture,
+            alt: 'Weather forecasts with search bar',
+            github: 'https://github.com/SD-github21/weather-dashboard' 
         },
         {
             title: 'Run Buddy',

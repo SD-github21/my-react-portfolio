@@ -10,9 +10,6 @@ function App() {
   return (
     <div style={{ backgroundImage: `url(${heroImage})`}}> 
       <Header></Header>
-      <main>
-        
-      </main>
       <Footer></Footer>
     </div>
   );
