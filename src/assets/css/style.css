@@ -65,10 +65,16 @@ header nav ul {
     border-radius: 15px;
     text-shadow: none;
   }
+
+  .nav-active {
+    color: yellow
+  }
 /* HEADER / NAVBAR STYLES END */
 
 p {
-  background-color:#c0eef4;
+  background-color: rgba(185, 215, 219, 0.3);
+  /* box-shadow: 5px 5px 5px 5px pink; */
+  
 
 }
 
@@ -76,6 +82,7 @@ p {
 /* FOOTER STYLES START */
 footer {
   display: flex;
+  flex-wrap: wrap;
   padding: 20px 35px;
   background-color: var(--primary-color);
   top: 0;

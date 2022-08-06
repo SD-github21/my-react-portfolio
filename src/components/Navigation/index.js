@@ -8,7 +8,7 @@ function Navigation ({ currentPage, handlePageChange }) {
             <ul className='flex-row'>
                 <li className='mx-2'>
                     <a href='/'    
-                    // className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+                    className={currentPage === 'About' ? 'nav-active' : ''}
                 
                     >
                         About me
@@ -17,7 +17,7 @@ function Navigation ({ currentPage, handlePageChange }) {
                 <li>
                     <a href="#portfolio"
                     onClick={() => handlePageChange('Portfolio')}
-                    // className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
+                    className={currentPage === 'Portfolio' ? 'nav-active' : ''}
 
                     >
                         Portfolio
@@ -26,7 +26,7 @@ function Navigation ({ currentPage, handlePageChange }) {
                 <li>
                     <a href="#contact"
                      onClick={() => handlePageChange('Contact')}
-                    //  className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+                     className={currentPage === 'Contact' ? 'nav-active' : ''}
 
                     >
                         Contact
@@ -35,7 +35,7 @@ function Navigation ({ currentPage, handlePageChange }) {
                 <li>
                     <a href="#resume"
                      onClick={() => handlePageChange('Resume')}
-                    //  className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+                     className={currentPage === 'Resume' ? 'nav-active' : ''}
                     >
                         Resume
                     </a>
