@@ -7,7 +7,7 @@ function Navigation ({ currentPage, handlePageChange }) {
         <nav>
             <ul className='flex-row'>
                 <li className='mx-2'>
-                    <a href='/'    
+                    <a href='/my-react-portfolio'    
                     className={currentPage === 'About' ? 'nav-active' : ''}
                 
                     >

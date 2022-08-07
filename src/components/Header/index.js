@@ -27,7 +27,7 @@ function Header() {
         <>
         <header>
             <h1>
-                <a href="/">
+                <a href="/my-react-portfolio">
                     Sapana D. Donde
                 </a>
             </h1>
