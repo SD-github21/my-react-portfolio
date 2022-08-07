@@ -56,7 +56,7 @@ https://opensource.org/licenses/ISC
 * GitHub Pages
 
 ### **Deliverables**
-**Screenshot of My React Portfolio:**
+**Screenshots of My React Portfolio:**
 
 **About Me**
 ![alt text](src/assets/images/about-me.png)<br>
