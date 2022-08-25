@@ -8,13 +8,6 @@ function Project() {
 
     const [projects] = useState([
         {
-            title: 'Olympic Medal Predictions',
-            application: 'https://olympic-medal-predictions.herokuapp.com/index',
-            image: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg',
-            alt: 'Olympic rings',
-            github: 'https://github.com/cdeanatx/Olympic_Medal_Predictions' 
-        },
-        {
             title: 'Nibbler',
             application: 'https://fathomless-peak-48299.herokuapp.com/',
             image: nibblerPicture,
@@ -27,6 +20,13 @@ function Project() {
             image: 'https://i.insider.com/5c3e2df8c3100e0710201ae3?width=1200&format=jpeg&auto=webp',
             alt: 'Bar with background of shelves with multi-colored containers of liquor',
             github: 'https://github.com/SD-github21/happy-hour' 
+        },
+        {
+            title: 'Olympic Medal Predictions',
+            application: 'https://olympic-medal-predictions.herokuapp.com/index',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg',
+            alt: 'Olympic rings',
+            github: 'https://github.com/cdeanatx/Olympic_Medal_Predictions' 
         },
         {
             title: 'Bellybutton Biodiversity',
