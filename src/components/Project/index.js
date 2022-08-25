@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import meetFriendsPicture from '../../assets/images/photo-1533174072545-7a4b6ad7a6c3.avif';
 import bellyButtonPicture from '../../assets/images/bellybutton.png';
 import weatherPicture from '../../assets/images/screencapture-weather-dashboard.png';
-import runBuddyPicture from '../../assets/images/run-buddy.jpg';
+import nibblerPicture from '../../assets/images/foodie-hero-img.jpg';
 
 function Project() {
 
@@ -15,12 +15,12 @@ function Project() {
             github: 'https://github.com/cdeanatx/Olympic_Medal_Predictions' 
         },
         {
-            title: 'Meet Friends',
-            application: 'https://meet-friends-bootcamp.herokuapp.com/',
-            image: meetFriendsPicture,
-            alt: 'People at a concert',
-            github: 'https://github.com/SD-github21/meet-friends' 
-        },
+            title: 'Nibbler',
+            application: 'https://fathomless-peak-48299.herokuapp.com/',
+            image: nibblerPicture,
+            alt: 'Three arms with phones in their hands taking a photo of a pizza with the photo of the pizza on their phones',
+            github: 'https://github.com/TyeStanley/nibbler' 
+        },        
         {
             title: 'Happy Hour',
             application: 'https://sd-github21.github.io/happy-hour/',
@@ -43,12 +43,13 @@ function Project() {
             github: 'https://github.com/SD-github21/weather-dashboard' 
         },
         {
-            title: 'Run Buddy',
-            application: 'https://sd-github21.github.io/run-buddy/',
-            image: runBuddyPicture,
-            alt: 'Runner lacing up shoes',
-            github: 'https://github.com/SD-github21/run-buddy' 
+            title: 'Meet Friends',
+            application: 'https://meet-friends-bootcamp.herokuapp.com/',
+            image: meetFriendsPicture,
+            alt: 'People at a concert',
+            github: 'https://github.com/SD-github21/meet-friends' 
         },
+
     ])
 
     return (
