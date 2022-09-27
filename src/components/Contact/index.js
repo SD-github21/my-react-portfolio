@@ -41,7 +41,7 @@ function Contact() {
 
     return (
         <section id='contact' className='contact my-5'>
-            <h1 className='mx-3'>Contact Me</h1>
+            <h1 className='mx-3'>Contact Me -- Under Construction | Please send emails of interest to sapanadonde@gmail.com</h1>
             <form id="contact-form" className="mx-5 my-5" onSubmit={handleSubmit} >
                 <div className="mx-4 my-3">
                     <label htmlFor="name">Name: </label>
