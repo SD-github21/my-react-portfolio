@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.f8ef9743.css",
-    "main.js": "/my-react-portfolio/static/js/main.5ff7d79f.js",
+    "main.js": "/my-react-portfolio/static/js/main.9de762e3.js",
     "static/js/787.56d9acf9.chunk.js": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js",
     "static/media/foodie-hero-img.jpg": "/my-react-portfolio/static/media/foodie-hero-img.5a4c02309ae3dca5d5e7.jpg",
     "static/media/hero-bg.jpg": "/my-react-portfolio/static/media/hero-bg.e5c449635e15dd508956.jpg",
     "static/media/bio-picture.jpg": "/my-react-portfolio/static/media/bio-picture.909a67f57b962094497f.jpg",
-    "static/media/resume.pdf": "/my-react-portfolio/static/media/resume.4d902757ad7d82d787b1.pdf",
+    "static/media/resume.pdf": "/my-react-portfolio/static/media/resume.2b246dba0eb1c47098fb.pdf",
     "static/media/bellybutton.png": "/my-react-portfolio/static/media/bellybutton.a1c54d3e70442115a371.png",
     "static/media/photo-1533174072545-7a4b6ad7a6c3.avif": "/my-react-portfolio/static/media/photo-1533174072545-7a4b6ad7a6c3.34fcaf3be14807f31191.avif",
     "static/media/screencapture-weather-dashboard.png": "/my-react-portfolio/static/media/screencapture-weather-dashboard.be4298d40f6053dee5ba.png",
     "static/media/stackoverflow.png.ico": "/my-react-portfolio/static/media/stackoverflow.png.96d045dacba1f08c6aae.ico",
     "index.html": "/my-react-portfolio/index.html",
     "main.f8ef9743.css.map": "/my-react-portfolio/static/css/main.f8ef9743.css.map",
-    "main.5ff7d79f.js.map": "/my-react-portfolio/static/js/main.5ff7d79f.js.map",
+    "main.9de762e3.js.map": "/my-react-portfolio/static/js/main.9de762e3.js.map",
     "787.56d9acf9.chunk.js.map": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8ef9743.css",
-    "static/js/main.5ff7d79f.js"
+    "static/js/main.9de762e3.js"
   ]
 }
